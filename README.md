@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет, я Даниил 👋
 
-<!--
-**Vodridar/Vodridar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 3 курса, специальность «Информационные системы и программирование».
+Делаю дизайн и частично backend веб-приложения: интерфейс на React/Next.js, сервер на Node.js. А также частично работаю с базами данных.
+Ищу стажировку Fronted-разработчиком или Оператором базы данных.
 
-Here are some ideas to get you started:
+## Стек
+JavaScript · TypeScript · React · Next.js · Tailwind CSS
+Node.js · PostgreSQL · Git · Python · Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+- [Дизайн Сайта WellWet](https://github.com/Vodridar/WellWet) — React + JavaScript, Tailwind CSS
+- [Дизайн Сайта PascalVent](https://github.com/Vodridar/Pascal) — React + TypeScript, Tailwind CSS
+- [Дизайн Сайта для оказания юридической помощи](https://github.com/Vodridar/client) — Простой дизайн сайта при помощи HTML, CSS
+
+## Контакты
+Почта: vodridar@gmail.com
+Телеграм: @solitudo_nocturna
